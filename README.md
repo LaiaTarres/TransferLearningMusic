@@ -4,4 +4,4 @@
 
 [Original Lab](https://github.com/jordipons/sklearn-audio-transfer-learning) developed by Jordi Pons.
 
-Adapted by [Laia Tarrés](https://www.linkedin.com/in/laia-tarres-9a5369138) ([UPC School](https://www.talent.upc.edu/ing/estudis/formacio/curs/310400/postgrau-artificial-intelligence-deep-learning/) 2021)
+Adapted by [Laia Tarrés](https://www.linkedin.com/in/laia-tarres-9a5369138) ([UPC School](https://www.talent.upc.edu/ing/estudis/formacio/curs/310400/postgrau-artificial-intelligence-deep-learning/) 2021).
